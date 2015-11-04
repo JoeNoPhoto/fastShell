@@ -1,8 +1,8 @@
 /*!
  * fastshell
- * Fiercely quick and opinionated front-ends
- * https://HosseinKarami.github.io/fastshell
- * @author Hossein Karami
+ * opinionated front-end
+ * https://github.com/JoeNoPhoto/fastShell
+ * @author Joe Norris
  * @version 1.0.3
  * Copyright 2015. MIT licensed.
  */
